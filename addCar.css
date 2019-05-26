@@ -1,0 +1,13 @@
+body {
+  background-color: blue;
+}
+
+form {
+  display: grid;
+  width: 30%;
+}
+
+button {
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
